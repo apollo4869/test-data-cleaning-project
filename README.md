@@ -1,7 +1,7 @@
 # Learning Summary: The First Step in Data Science—Data Cleaning
 
 ## The Necessity of Data Cleaning
-Data cleaning is undoubtedly the first step in data science, and its importance cannot be overstated. Through this small project, I have gained a deeper understanding of the core value and basic methods of data cleaning.
+Data cleaning is undoubtedly the first step in data science, and its importance cannot be overstated.
 
 The primary goal of data cleaning is to ensure **consistency** and **completeness** of the data. Models require data to have a uniform format for efficient batch processing; otherwise, the models may fail to run or produce inaccurate predictions. Whether it is a simple regression model or a complex deep learning model, proper data cleaning is an indispensable step.
 
