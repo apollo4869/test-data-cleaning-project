@@ -6,7 +6,7 @@ Data cleaning is undoubtedly the first step in data science, and its importance 
 The primary goal of data cleaning is to ensure **consistency** and **completeness** of the data. Models require data to have a uniform format for efficient batch processing; otherwise, the models may fail to run or produce inaccurate predictions. Whether it is a simple regression model or a complex deep learning model, proper data cleaning is an indispensable step.
 
 ## Characteristics of Data Cleaning
-From this project, I recognized three distinct characteristics of data cleaning:
+There are three distinct characteristics of data cleaning:
 1. **Large Volume of Data**: A large amount of data must be processed efficiently using programming tools such as Python, as manual cleaning is infeasible.
 2. **High Complexity**: Data may come from multiple sources, include different data types (e.g., numerical, textual, timestamps), and lack a unified format, requiring tailored cleaning strategies.
 3. **Serious Data Quality Issues**: Data often contains missing values, outliers, and duplicates, which, if not handled, can significantly impact subsequent analysis and modeling.
@@ -29,10 +29,10 @@ These methods are simple and effective for beginners but have certain limitation
 3. Through hands-on practice, I have developed a clear understanding of the data cleaning process and the critical role data quality plays in subsequent model training.
 
 ## Future Plans
-Through this project, I have realized that data cleaning is only the starting point of data science. In the future, I plan to:
+Data cleaning is the starting point of data science. In the future, we need to:
 1. Learn more advanced cleaning techniques, such as interpolation and model-based imputations.
 2. Explore feature engineering and data preprocessing methods for model training.
 3. Build simple machine learning models (e.g., linear regression or decision trees) to further explore the relationship between data and models.
 
 ## Conclusion
-This project marks an important step in my journey into data science, helping me deeply understand the principle that "data cleaning is the foundation, and quality determines success." Moving forward, I will continue to explore more advanced cleaning methods and analytical techniques to enhance my skills.
+This project marks an important step in data science, helping to understand the principle that "data cleaning is the foundation, and quality determines success." M
